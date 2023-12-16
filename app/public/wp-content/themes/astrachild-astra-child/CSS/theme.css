@@ -1,0 +1,28 @@
+/* HEADER */
+
+/*PAGE 1*/
+.wp-image-82{
+    background-color: white;
+}
+
+
+/*PAGE 2*/
+.wp-image-229 {
+    background-color: #ECE2DA;
+}
+
+.wpforms-container-full .wpforms-form .wpforms-submit-container {
+    display:flex;
+    justify-content: center;
+}
+
+.wp-image-76 {
+    flex-shrink: 0;
+}
+
+
+/*FOOTER*/
+
+.site-below-footer-wrap {
+    height: 20px; 
+}
