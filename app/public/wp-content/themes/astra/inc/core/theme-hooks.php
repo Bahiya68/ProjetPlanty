@@ -128,7 +128,6 @@ function astra_head_top() {
 function astra_head_bottom() {
 	do_action( 'astra_head_bottom' );
 }
-
 /**
  * Semantic <header> hooks
  *

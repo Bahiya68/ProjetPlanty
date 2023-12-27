@@ -1,70 +1,208 @@
 /* HEADER */
 
-/*PAGE 1*/
+
+#masthead .ast-container, .site-header-focus-item + .ast-breadcrumbs-wrapper{
+     padding-right: 0px;
+}
+
+.menu-link {
+    width: 236px;
+    display: flex ;
+    justify-content: center;
+}
+
+/*PAGE 1 Accueil*/
+
 .wp-image-82 {
     background-color: white;
 }
+ .uagb-buttons-repeater {
+    width: 200px;
+ }
 
 
-/*PAGE 2*/
-.wp-image-229 {
-    background-color: #ECE2DA;
-}
+ .ast-plain-container.ast-no-sidebar .entry-content > .alignfull, .ast-page-builder-template .ast-no-sidebar .entry-content > .alignfull {
+    flex-wrap: wrap;
+ }
 
 
 
-.wp-block-uagb-container {
-    position: relative;
-}
+/*PAGE 2 Nous rencontrer*/
 
 .wp-image-221 {
-    position: absolute;
-    margin-left: 145px;
-    margin-top: 150px;
-
-
+    position: relative;
+    left: 15vw;
+    top: 5vw;
 }
 
-.wp-elements-795efa37b9c36f21451562e395e45e1e {
-    position: absolute;
-    margin-top: 196px;
+.wp-image-76 {
+    position: relative;
+    top: 3vw;
+    
+} 
 
+
+
+.nouscontacterp1 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 15px;
 }
 
 
 .wpcf7 {
     width: 390px;
     display: flex;
-    justify-content: center;
-
+    justify-content: center;   
 }
 
+/*positionnement des feuilles par rapport au champs de text*/
 .wpcf7-textarea {
     height: 240px;
+    border-radius: 7px;
     position: relative;
     z-index: 2;
 }
 
-.wp-image-445 {
-    position: absolute;
-    left: 664px;
-    bottom: 10px;
+.feuilles {
+    bottom: 125px;
+    right:  90px;
+    position: relative;
     z-index: 1;
-
 }
 
-.wp-block-button__link {
+
+/*button envoyer*/
+.envoyerbutton {
+    display: flex;
+    justify-content: center;
+    width: 412px;
+    height: 55px;
+} 
+
+#envoyerbutton {
+    position: relative;
+    bottom: 155px;
+    font-size: 15px;
+    font-weight: 400;
     width: 200px;
     height: 55px;
+    border-radius: 5px;
+    background-color: #E0B9B4;
+
+}
+
+/*fond canette*/
+.wp-image-229 {
+    background-color: #ECE2DA;
+}
+
+/*PAGE 3 Commande*/
+
+.wp-block-separator {
+    width: 200px;
+}
+
+/*formulaire commande*/
+
+.wpcf7 {
+    width: 100%;
+    max-width: 860px;
+}
+
+/*centrer les images*/
+.wp-block-columns {
+    display: flex;
+    justify-content: center;
+}
+
+/* disposition formulaire*/
+.wp-block-contact-form-7-contact-form-selector {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/*selecteur qte de fruits*/
+.nbrefruits {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    gap: 50px;
+}
+
+#fraise,
+#pampousse,
+#citron,
+#framboise {
+    width: 60px;
+    height: 50px;
 }
 
 
+/*renseignement du client */
 
+.votrecommande {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
 
+.selectionfruit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 
-/*PAGE 3*/
+.imagefruitcommande {
+    width: 193px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+    gap: 30px;
+}
 
+.info {
+    font-size: 30px;
+    font-weight: 700;
 
+}
+
+.renseignement {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 90px;
+}
+.separateurvertical {
+    height: 447px; 
+    margin-top: 20px;
+}
+
+/*bouton commande*/
+
+.wpcf7-form-control {
+    display: flex;
+    justify-content: center;
+}
+
+#commandefruits {
+    width: 198px;
+    height: 55px;
+    border-radius: 5px;
+}
+
+.buttoncommander {
+    display: flex;
+    justify-content: center;
+
+}
 
 /*FOOTER*/
 
@@ -73,22 +211,54 @@
 } */
 
 
-/*mobile*/
+/**************************mobile************************/
 
-@media (max-width: 959px) { 
+@media (max-width: 959px) {
     .wpcf7-textarea {
         height: 240px;
         position: relative;
         z-index: 2;
     }
-    
-    .wp-image-445 {
-        position: absolute;
-        left: 195px;
-        bottom: 10px;
-        z-index: 1;
-    
+
+    .votrecommande {
+        display: flex;
+        justify-content: center;
     }
 
 
- }
+
+    .renseignement {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .imagefruitcommande {
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15px;
+        gap: 30px;
+
+    }
+
+    .separateurvertical {
+        display: none;
+    }
+    
+    .wp-block-column {
+        
+        justify-content: center;  
+    }
+
+    
+   
+    .wp-image-76 {
+        display: none;
+        
+    } 
+    
+
+}
+
+

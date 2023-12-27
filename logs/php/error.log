@@ -177,3 +177,2643 @@
 [19-Dec-2023 21:57:05 UTC] SITE: Storing in option ast-block-templates-sites-2
 [19-Dec-2023 21:57:05 UTC] SITE: Completed request 2
 [19-Dec-2023 21:57:05 UTC] Sync process for Gutenberg Blocks is done.
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 595
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 595
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 595
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Vivian Harrell
+    [html] => Vivian Harrell
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Vivian Harrell
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Vivian Harrell
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Marriage & Family Therapist License: California / LMFT 47915 School: Ryokan College Year Graduated: 2010
+    [html] => <p><span class="ql-size-large">Marriage &amp; Family Therapist</span></p><p><span class="ql-size-small"><span class="ql-cursor">﻿</span></span></p><ol><li><strong>License:</strong> California / LMFT 47915 </li><li><strong>School: Ryokan</strong> College </li><li><strong>Year Graduated: </strong>2010 </li></ol>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Marriage & Family Therapist License: California / LMFT 47915 School: Ryokan College Year Graduated: 2010
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Marriage & Family Therapist License: California / LMFT 47915 School: Ryokan College Year Graduated: 2010
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 33
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 33
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 33
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1231718400000
+    [html] => January 12, 2009
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1231718400000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1231718400000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => vivianharrell@company.com
+    [html] => vivianharrell@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: vivianharrell@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: vivianharrell@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 596
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 596
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 596
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Ashton Cox
+    [html] => Ashton Cox
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Ashton Cox
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Ashton Cox
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Accomplished Explorer Photographer Not so Creative Director Speaker & Author
+    [html] => <p class="ql-align-right">Accomplished Explorer</p><p class="ql-align-right">Photographer</p><p class="ql-align-right"><s>Not so</s> Creative Director </p><p class="ql-align-right">Speaker &amp;</p><p class="ql-align-right">Author</p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Accomplished Explorer Photographer Not so Creative Director Speaker & Author
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Accomplished Explorer Photographer Not so Creative Director Speaker & Author
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 40
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 40
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 40
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1227744000000
+    [html] => November 27, 2008
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1227744000000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1227744000000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => ashtoncox@company.com
+    [html] => ashtoncox@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: ashtoncox@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: ashtoncox@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 597
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 597
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 597
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Bruno Nash
+    [html] => Bruno Nash
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Bruno Nash
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Bruno Nash
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => TED and TEDx speaker
+    [html] => <p class="ql-align-center"><span class="ql-size-huge">TED and TEDx speaker</span><span class="ql-size-large">﻿</span></p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: TED and TEDx speaker
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: TED and TEDx speaker
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 38
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 38
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 38
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1254960000000
+    [html] => October 8, 2009
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1254960000000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1254960000000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => brunonash@company.com
+    [html] => brunonash@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: brunonash@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: brunonash@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 598
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 598
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 598
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Brenden Brenden
+    [html] => Brenden Brenden
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Brenden Brenden
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Brenden Brenden
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Freelance SEO content writer Content strategist for SaaS and tech brands
+    [html] => <ul><li>Freelance SEO <strong>content writer</strong></li><li>Content strategist for <em>SaaS and tech brands</em></li></ul><p>    </p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Freelance SEO content writer Content strategist for SaaS and tech brands
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Freelance SEO content writer Content strategist for SaaS and tech brands
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 39
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 39
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 39
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1354406400000
+    [html] => December 2, 2012
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1354406400000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1354406400000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => brendenwagner@company.com
+    [html] => brendenwagner@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: brendenwagner@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: brendenwagner@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 599
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 599
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 599
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Cara Stevens
+    [html] => Cara Stevens
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Cara Stevens
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Cara Stevens
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Political Anthropologist 🏳️‍🌈
+    [html] => <p><span class="ql-size-large">Political Anthropologist 🏳️‍🌈</span></p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Political Anthropologist 🏳️‍🌈
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Political Anthropologist 🏳️‍🌈
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 31
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 31
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 31
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1323043200000
+    [html] => December 5, 2011
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1323043200000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1323043200000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => carastevens@company.com
+    [html] => carastevens@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: carastevens@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: carastevens@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 600
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 600
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 600
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Sakura Yamamoto
+    [html] => Sakura Yamamoto
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Sakura Yamamoto
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Sakura Yamamoto
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Creative Consultant for: Murals Lettering Illustration Graphic design See my work here.
+    [html] => <p>Creative Consultant for:</p><p><br></p><ul><li>Murals</li><li>Lettering</li><li>Illustration</li><li>Graphic design</li></ul><p><a href="https://pauple.com/wordpress-table-plugin/" rel="noopener noreferrer" target="_blank">See my work here.</a></p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Creative Consultant for: Murals Lettering Illustration Graphic design See my work here.
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Creative Consultant for: Murals Lettering Illustration Graphic design See my work here.
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 51
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 51
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 51
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1239235200000
+    [html] => April 9, 2009
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1239235200000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1239235200000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => sakurayamamoto@company.com
+    [html] => sakurayamamoto@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: sakurayamamoto@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: sakurayamamoto@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 601
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 601
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 601
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Rhona Davidson
+    [html] => Rhona Davidson
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Rhona Davidson
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Rhona Davidson
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Systems Administrator
+    [html] => <p>Systems Administrator</p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Systems Administrator
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Systems Administrator
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 60
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 60
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 60
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1350000000000
+    [html] => October 12, 2012
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1350000000000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1350000000000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => rhonadavidson@company.com
+    [html] => rhonadavidson@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: rhonadavidson@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: rhonadavidson@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 602
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 602
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 602
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Bradley Greer
+    [html] => Bradley Greer
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Bradley Greer
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Bradley Greer
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Marketing Designer
+    [html] => <p>Marketing Designer</p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Marketing Designer
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Marketing Designer
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 63
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 63
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 63
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1333843200000
+    [html] => April 8, 2012
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1333843200000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1333843200000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => bradleygreer@company.com
+    [html] => bradleygreer@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: bradleygreer@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: bradleygreer@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 603
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 603
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 603
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Fiona Green
+    [html] => Fiona Green
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Fiona Green
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Fiona Green
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Regional Director
+    [html] => <p>Regional Director</p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Regional Director
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Regional Director
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 25
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 25
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 25
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 1354320000000
+    [html] => December 1, 2012
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 1354320000000
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 1354320000000
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => fionagreen@company.com
+    [html] => fionagreen@company.com
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: fionagreen@company.com
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: fionagreen@company.com
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+    [html] => https://pauple.com/wordpress-table-plugin/
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 604
+    [html] => 
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 604
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 604
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => Tatyana Fitzpatrick
+    [html] => Tatyana Fitzpatrick
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: Tatyana Fitzpatrick
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: Tatyana Fitzpatrick
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => System Architect
+    [html] => <p>System Architect</p>
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: System Architect
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: System Architect
+[22-Dec-2023 10:03:44 UTC] $cell_data: Array
+(
+    [value] => 28
+)
+
+[22-Dec-2023 10:03:44 UTC] 2 $cell_value: 28
+[22-Dec-2023 10:03:44 UTC] 3 $cell_value: 28
+[22-Dec-2023 10:03:45 UTC] $cell_data: Array
+(
+    [value] => 1350000000000
+    [html] => October 12, 2012
+)
+
+[22-Dec-2023 10:03:45 UTC] 2 $cell_value: 1350000000000
+[22-Dec-2023 10:03:45 UTC] 3 $cell_value: 1350000000000
+[22-Dec-2023 10:03:45 UTC] $cell_data: Array
+(
+    [value] => tatyanafitzpatrick@company.com
+    [html] => tatyanafitzpatrick@company.com
+)
+
+[22-Dec-2023 10:03:45 UTC] 2 $cell_value: tatyanafitzpatrick@company.com
+[22-Dec-2023 10:03:45 UTC] 3 $cell_value: tatyanafitzpatrick@company.com
+[22-Dec-2023 10:03:45 UTC] $cell_data: Array
+(
+    [value] => https://pauple.com/wordpress-table-plugin/
+    [linkText] => View Profile
+)
+
+[22-Dec-2023 10:03:45 UTC] 2 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:45 UTC] 3 $cell_value: https://pauple.com/wordpress-table-plugin/
+[22-Dec-2023 10:03:47 UTC] dispatch_save_settings_event
+[22-Dec-2023 10:03:47 UTC] Array
+(
+    [show_serial_number_column] => 
+    [search] => 1
+    [hide_table_header] => 
+    [sorting] => 1
+    [export] => 
+    [filters] => 
+    [date_timezone] => site
+    [num_of_records_per_page] => 10
+    [pagination_show_first_and_last_buttons] => 1
+    [pagination_show_previous_and_next_buttons] => 1
+    [sticky_first_column] => 
+    [enable_min_column_width] => 1
+    [min_column_width] => 
+    [enable_max_column_width] => 1
+    [max_column_width] => 
+    [table_display_mode] => fit-to-container
+    [mobile_layout_mode] => scroll-mode
+    [style_disable] => 
+    [style_table_header_border_color] => Array
+        (
+            [all] => 1
+            [style] => solid
+            [color] => #dddddd
+        )
+
+    [style_header_background] => #1d1f20
+    [style_header_typography] => Array
+        (
+            [color] => #ffffff
+            [font-family] => Trebuchet MS
+            [font-style] => normal
+            [font-size] => 16
+            [line-height] => 20
+            [letter-spacing] => 0
+            [text-align] => left
+            [text-transform] => none
+            [unit] => px
+        )
+
+    [style_row_background] => #ffffff
+    [style_row_background_even] => #f2f2f2
+    [style_cell_border] => Array
+        (
+            [all] => 1
+            [style] => solid
+            [color] => #dddddd
+        )
+
+    [style_cell_typography] => Array
+        (
+            [color] => #000000
+            [font-family] => Trebuchet MS
+            [font-style] => normal
+            [font-size] => 16
+            [line-height] => 20
+            [letter-spacing] => 0
+            [text-align] => left
+            [text-transform] => none
+            [unit] => px
+        )
+
+    [enabled_all_forms_entries] => 1
+)
+
+[22-Dec-2023 10:03:48 UTC] fresh_install_action
+[22-Dec-2023 10:03:48 UTC] fresh_install_action $upgrades : Array
+(
+    [0.9.9] => 1
+    [0.8.3] => 1
+    [0.7.3] => 1
+    [0.7] => 1
+    [0.6.5] => 1
+    [0.5.9.2] => 1
+    [0.5.8] => 1
+    [0.4.1] => 1
+    [0.4] => 1
+    [0.2.6] => 1
+    [0.0.2] => 1
+    [0.2] => 1
+)
+
+[22-Dec-2023 10:03:49 UTC] VERYYY NEW INSTALL
+[22-Dec-2023 10:04:14 UTC] PHP Warning:  Undefined array key "id" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\plugins\tablesome\vendor\pauple\pluginator\src\Library\freemius\templates\connect\permission.php on line 29
+[22-Dec-2023 10:04:14 UTC] PHP Warning:  Undefined array key "id" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\plugins\tablesome\vendor\pauple\pluginator\src\Library\freemius\templates\connect\permission.php on line 29
+[22-Dec-2023 10:04:14 UTC] PHP Warning:  Undefined array key "id" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\plugins\tablesome\vendor\pauple\pluginator\src\Library\freemius\templates\connect\permission.php on line 30
+[22-Dec-2023 16:24:04 UTC] Sync process for Gutenberg Blocks has started.
+[22-Dec-2023 16:24:04 UTC] CATEGORY:Importing categories..
+[22-Dec-2023 16:24:05 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[22-Dec-2023 16:24:05 UTC] CATEGORY:Completed category import.
+[22-Dec-2023 16:24:05 UTC] BLOCK: Getting Total Blocks
+[22-Dec-2023 16:24:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[22-Dec-2023 16:24:05 UTC] BLOCK: Requests count 4
+[22-Dec-2023 16:24:05 UTC] BLOCK: Importing request 1 ..
+[22-Dec-2023 16:24:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[22-Dec-2023 16:24:05 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[22-Dec-2023 16:24:05 UTC] BLOCK: Completed request 1
+[22-Dec-2023 16:24:05 UTC] BLOCK: Importing request 2 ..
+[22-Dec-2023 16:24:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[22-Dec-2023 16:24:05 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[22-Dec-2023 16:24:05 UTC] BLOCK: Completed request 2
+[22-Dec-2023 16:24:05 UTC] BLOCK: Importing request 3 ..
+[22-Dec-2023 16:24:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[22-Dec-2023 16:24:05 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[22-Dec-2023 16:24:05 UTC] BLOCK: Completed request 3
+[22-Dec-2023 16:24:05 UTC] BLOCK: Importing request 4 ..
+[22-Dec-2023 16:24:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[22-Dec-2023 16:24:06 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[22-Dec-2023 16:24:06 UTC] BLOCK: Completed request 4
+[22-Dec-2023 16:24:06 UTC] SITE: Getting Total Sites
+[22-Dec-2023 16:24:06 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[22-Dec-2023 16:24:06 UTC] SITE: Request count 2
+[22-Dec-2023 16:24:06 UTC] SITE: Importing request 1 ..
+[22-Dec-2023 16:24:06 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[22-Dec-2023 16:24:06 UTC] SITE: Storing in option ast-block-templates-sites-1
+[22-Dec-2023 16:24:09 UTC] SITE: Completed request 1
+[22-Dec-2023 16:24:09 UTC] SITE: Importing request 2 ..
+[22-Dec-2023 16:24:09 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[22-Dec-2023 16:24:09 UTC] SITE: Storing in option ast-block-templates-sites-2
+[22-Dec-2023 16:24:09 UTC] SITE: Completed request 2
+[22-Dec-2023 16:24:09 UTC] Sync process for Gutenberg Blocks is done.
+[22-Dec-2023 20:33:18 UTC] send_mail callback $is_trigger_configured : 
+[23-Dec-2023 00:04:56 UTC] cf7 final_data : Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_enabled_smart_fields
+[23-Dec-2023 00:05:07 UTC] --update_fields_map()
+[23-Dec-2023 00:05:07 UTC] --before_update_fields_map $fields_mapArray
+(
+    [0] => Array
+        (
+            [column_id] => 0
+            [column_label] => Submission Date
+            [column_format] => date
+            [column_status] => pending
+            [field_name] => created_at
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => enabled
+        )
+
+    [1] => Array
+        (
+            [column_id] => 0
+            [column_label] => IP Address
+            [column_format] => text
+            [column_status] => pending
+            [field_name] => ip_address
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+    [2] => Array
+        (
+            [column_id] => 0
+            [column_label] => Page Source URL
+            [column_format] => url
+            [column_status] => pending
+            [field_name] => page_source_url
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] --before_update_fields_map $source_dataArray
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] --get_unmapped_fields()
+[23-Dec-2023 00:05:07 UTC] $new_fieldsArray
+(
+    [0] => Array
+        (
+            [field_name] => number-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [1] => Array
+        (
+            [field_name] => text-170
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [2] => Array
+        (
+            [field_name] => text-188
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [3] => Array
+        (
+            [field_name] => email-384
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [4] => Array
+        (
+            [field_name] => text-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [5] => Array
+        (
+            [field_name] => number-846
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] $unmapped_fieldsArray
+(
+    [0] => Array
+        (
+            [field_name] => number-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [1] => Array
+        (
+            [field_name] => text-170
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [2] => Array
+        (
+            [field_name] => text-188
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [3] => Array
+        (
+            [field_name] => email-384
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [4] => Array
+        (
+            [field_name] => text-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [5] => Array
+        (
+            [field_name] => number-846
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] $index_of_first_smart_field: 0
+[23-Dec-2023 00:05:07 UTC] $start_position: 0
+[23-Dec-2023 00:05:07 UTC] $unmapped_fields: Array
+(
+    [0] => Array
+        (
+            [field_name] => number-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [1] => Array
+        (
+            [field_name] => text-170
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [2] => Array
+        (
+            [field_name] => text-188
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [3] => Array
+        (
+            [field_name] => email-384
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [4] => Array
+        (
+            [field_name] => text-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [5] => Array
+        (
+            [field_name] => number-846
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] $fields_map: Array
+(
+    [0] => Array
+        (
+            [column_id] => 0
+            [column_label] => Submission Date
+            [column_format] => date
+            [column_status] => pending
+            [field_name] => created_at
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => enabled
+        )
+
+    [1] => Array
+        (
+            [column_id] => 0
+            [column_label] => IP Address
+            [column_format] => text
+            [column_status] => pending
+            [field_name] => ip_address
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+    [2] => Array
+        (
+            [column_id] => 0
+            [column_label] => Page Source URL
+            [column_format] => url
+            [column_status] => pending
+            [field_name] => page_source_url
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] --update_fields_map $fields_mapArray
+(
+    [0] => Array
+        (
+            [field_name] => number-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [1] => Array
+        (
+            [field_name] => text-170
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [2] => Array
+        (
+            [field_name] => text-188
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [3] => Array
+        (
+            [field_name] => email-384
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [4] => Array
+        (
+            [field_name] => text-131
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [5] => Array
+        (
+            [field_name] => number-846
+            [field_type] => trigger_source
+            [detection_mode] => automatic
+        )
+
+    [6] => Array
+        (
+            [column_id] => 0
+            [column_label] => Submission Date
+            [column_format] => date
+            [column_status] => pending
+            [field_name] => created_at
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => enabled
+        )
+
+    [7] => Array
+        (
+            [column_id] => 0
+            [column_label] => IP Address
+            [column_format] => text
+            [column_status] => pending
+            [field_name] => ip_address
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+    [8] => Array
+        (
+            [column_id] => 0
+            [column_label] => Page Source URL
+            [column_format] => url
+            [column_status] => pending
+            [field_name] => page_source_url
+            [field_type] => tablesome_smart_fields
+            [detection_mode] => disabled
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] --update_fields_map $source_dataArray
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => number-131
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => number-131
+    [column_id] => 1
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: number-131
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => text-170
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => text-170
+    [column_id] => 2
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-170
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => text-188
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => text-188
+    [column_id] => 3
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-188
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => email-384
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => email-384
+    [column_id] => 4
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: email-384
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => text-131
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => text-131
+    [column_id] => 5
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-131
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [field_name] => number-846
+    [field_type] => trigger_source
+    [detection_mode] => automatic
+    [label] => number-846
+    [column_id] => 6
+    [column_status] => published
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: number-846
+[23-Dec-2023 00:05:07 UTC] label_exists: 1
+[23-Dec-2023 00:05:07 UTC] $field_set: Array
+(
+    [column_id] => 7
+    [column_label] => Submission Date
+    [column_format] => date
+    [column_status] => published
+    [field_name] => created_at
+    [field_type] => tablesome_smart_fields
+    [detection_mode] => enabled
+    [label] => Submission Date
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: created_at
+[23-Dec-2023 00:05:07 UTC] update_table_columns $event_params: Array
+(
+    [table_id] => 643
+    [table_meta] => Array
+        (
+            [editorState] => Array
+                (
+                )
+
+            [options] => Array
+                (
+                )
+
+            [columns] => Array
+                (
+                )
+
+            [rows] => Array
+                (
+                )
+
+            [meta] => Array
+                (
+                    [last_column_id] => 0
+                )
+
+        )
+
+    [action_meta] => Array
+        (
+            [integration] => tablesome
+            [match_columns] => Array
+                (
+                    [0] => Array
+                        (
+                            [column_id] => 0
+                            [column_label] => Submission Date
+                            [column_format] => date
+                            [column_status] => pending
+                            [field_name] => created_at
+                            [field_type] => tablesome_smart_fields
+                            [detection_mode] => enabled
+                        )
+
+                    [1] => Array
+                        (
+                            [column_id] => 0
+                            [column_label] => IP Address
+                            [column_format] => text
+                            [column_status] => pending
+                            [field_name] => ip_address
+                            [field_type] => tablesome_smart_fields
+                            [detection_mode] => disabled
+                        )
+
+                    [2] => Array
+                        (
+                            [column_id] => 0
+                            [column_label] => Page Source URL
+                            [column_format] => url
+                            [column_status] => pending
+                            [field_name] => page_source_url
+                            [field_type] => tablesome_smart_fields
+                            [detection_mode] => disabled
+                        )
+
+                )
+
+            [autodetect_enabled] => 1
+            [action_id] => 1
+        )
+
+    [fields_map] => Array
+        (
+            [0] => Array
+                (
+                    [field_name] => number-131
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => number-131
+                    [column_id] => 1
+                    [column_status] => published
+                )
+
+            [1] => Array
+                (
+                    [field_name] => text-170
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => text-170
+                    [column_id] => 2
+                    [column_status] => published
+                )
+
+            [2] => Array
+                (
+                    [field_name] => text-188
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => text-188
+                    [column_id] => 3
+                    [column_status] => published
+                )
+
+            [3] => Array
+                (
+                    [field_name] => email-384
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => email-384
+                    [column_id] => 4
+                    [column_status] => published
+                )
+
+            [4] => Array
+                (
+                    [field_name] => text-131
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => text-131
+                    [column_id] => 5
+                    [column_status] => published
+                )
+
+            [5] => Array
+                (
+                    [field_name] => number-846
+                    [field_type] => trigger_source
+                    [detection_mode] => automatic
+                    [label] => number-846
+                    [column_id] => 6
+                    [column_status] => published
+                )
+
+            [6] => Array
+                (
+                    [column_id] => 7
+                    [column_label] => Submission Date
+                    [column_format] => date
+                    [column_status] => published
+                    [field_name] => created_at
+                    [field_type] => tablesome_smart_fields
+                    [detection_mode] => enabled
+                    [label] => Submission Date
+                )
+
+            [7] => Array
+                (
+                    [column_id] => 7
+                    [column_label] => IP Address
+                    [column_format] => text
+                    [column_status] => published
+                    [field_name] => ip_address
+                    [field_type] => tablesome_smart_fields
+                    [detection_mode] => disabled
+                )
+
+            [8] => Array
+                (
+                    [column_id] => 7
+                    [column_label] => Page Source URL
+                    [column_format] => url
+                    [column_status] => published
+                    [field_name] => page_source_url
+                    [field_type] => tablesome_smart_fields
+                    [detection_mode] => disabled
+                )
+
+        )
+
+    [source_data] => Array
+        (
+            [number-131] => Array
+                (
+                    [label] => number-131
+                    [value] => 3
+                    [type] => number
+                    [unix_timestamp] => 0
+                    [final_value] => 3
+                )
+
+            [text-170] => Array
+                (
+                    [label] => text-170
+                    [value] => 
+                    [type] => text
+                    [unix_timestamp] => 0
+                    [final_value] => 
+                )
+
+            [text-188] => Array
+                (
+                    [label] => text-188
+                    [value] => 
+                    [type] => text
+                    [unix_timestamp] => 0
+                    [final_value] => 
+                )
+
+            [email-384] => Array
+                (
+                    [label] => email-384
+                    [value] => 
+                    [type] => email
+                    [unix_timestamp] => 0
+                    [final_value] => 
+                )
+
+            [text-131] => Array
+                (
+                    [label] => text-131
+                    [value] => 
+                    [type] => text
+                    [unix_timestamp] => 0
+                    [final_value] => 
+                )
+
+            [number-846] => Array
+                (
+                    [label] => number-846
+                    [value] => 
+                    [type] => number
+                    [unix_timestamp] => 0
+                    [final_value] => 
+                )
+
+            [created_at] => Array
+                (
+                    [label] => Submission Date
+                    [value] => 1703289907000
+                    [type] => date
+                    [final_value] => 1703289907000
+                    [field_type] => tablesome_smart_fields
+                )
+
+        )
+
+    [auto_detect] => 1
+    [table_columns] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => number-131
+                    [format] => number
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => text-170
+                    [format] => text
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [name] => text-188
+                    [format] => text
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [name] => email-384
+                    [format] => email
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [name] => text-131
+                    [format] => text
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [name] => number-846
+                    [format] => number
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [name] => Submission Date
+                    [format] => date
+                )
+
+        )
+
+    [integration] => cf7
+    [action_position] => 0
+    [trigger_position] => 0
+)
+
+[23-Dec-2023 00:05:07 UTC] update_postmeta
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: number-131
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-170
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-188
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: email-384
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: text-131
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: number-846
+[23-Dec-2023 00:05:07 UTC] get_column_type() source_data: Array
+(
+    [number-131] => Array
+        (
+            [label] => number-131
+            [value] => 3
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 3
+        )
+
+    [text-170] => Array
+        (
+            [label] => text-170
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-188] => Array
+        (
+            [label] => text-188
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [email-384] => Array
+        (
+            [label] => email-384
+            [value] => 
+            [type] => email
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [text-131] => Array
+        (
+            [label] => text-131
+            [value] => 
+            [type] => text
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [number-846] => Array
+        (
+            [label] => number-846
+            [value] => 
+            [type] => number
+            [unix_timestamp] => 0
+            [final_value] => 
+        )
+
+    [created_at] => Array
+        (
+            [label] => Submission Date
+            [value] => 1703289907000
+            [type] => date
+            [final_value] => 1703289907000
+            [field_type] => tablesome_smart_fields
+        )
+
+)
+
+[23-Dec-2023 00:05:07 UTC] get_column_type() field_name: created_at
+[23-Dec-2023 00:05:07 UTC] check_and_insert_table_row
+[23-Dec-2023 00:05:25 UTC] send_mail callback $is_trigger_configured : 1
+[23-Dec-2023 00:05:33 UTC] *** get_redirection_data ***
+[23-Dec-2023 15:19:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Dec-2023 21:53:09 UTC] Sync process for Gutenberg Blocks has started.
+[23-Dec-2023 21:53:09 UTC] CATEGORY:Importing categories..
+[23-Dec-2023 21:53:09 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[23-Dec-2023 21:53:09 UTC] CATEGORY:Completed category import.
+[23-Dec-2023 21:53:09 UTC] BLOCK: Getting Total Blocks
+[23-Dec-2023 21:53:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[23-Dec-2023 21:53:09 UTC] BLOCK: Requests count 4
+[23-Dec-2023 21:53:09 UTC] BLOCK: Importing request 1 ..
+[23-Dec-2023 21:53:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[23-Dec-2023 21:53:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[23-Dec-2023 21:53:09 UTC] BLOCK: Completed request 1
+[23-Dec-2023 21:53:09 UTC] BLOCK: Importing request 2 ..
+[23-Dec-2023 21:53:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[23-Dec-2023 21:53:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[23-Dec-2023 21:53:09 UTC] BLOCK: Completed request 2
+[23-Dec-2023 21:53:09 UTC] BLOCK: Importing request 3 ..
+[23-Dec-2023 21:53:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[23-Dec-2023 21:53:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[23-Dec-2023 21:53:09 UTC] BLOCK: Completed request 3
+[23-Dec-2023 21:53:09 UTC] BLOCK: Importing request 4 ..
+[23-Dec-2023 21:53:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[23-Dec-2023 21:53:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[23-Dec-2023 21:53:09 UTC] BLOCK: Completed request 4
+[23-Dec-2023 21:53:09 UTC] SITE: Getting Total Sites
+[23-Dec-2023 21:53:09 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[23-Dec-2023 21:53:10 UTC] SITE: Request count 2
+[23-Dec-2023 21:53:10 UTC] SITE: Importing request 1 ..
+[23-Dec-2023 21:53:10 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[23-Dec-2023 21:53:10 UTC] SITE: Storing in option ast-block-templates-sites-1
+[23-Dec-2023 21:53:11 UTC] SITE: Completed request 1
+[23-Dec-2023 21:53:11 UTC] SITE: Importing request 2 ..
+[23-Dec-2023 21:53:11 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[23-Dec-2023 21:53:11 UTC] SITE: Storing in option ast-block-templates-sites-2
+[23-Dec-2023 21:53:11 UTC] SITE: Completed request 2
+[23-Dec-2023 21:53:11 UTC] Sync process for Gutenberg Blocks is done.
+[24-Dec-2023 20:31:30 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[24-Dec-2023 20:35:11 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Dec-2023 22:59:13 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 22:59:14 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 23:00:29 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 23:00:29 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 23:00:31 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 23:00:32 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 16
+[24-Dec-2023 23:07:04 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astra\inc\core\theme-hooks.php on line 131
+[24-Dec-2023 23:07:04 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astra\inc\core\theme-hooks.php on line 131
+[24-Dec-2023 23:11:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:11:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:11:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:11:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:12:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:12:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php:19
+Stack trace:
+#0 C:\Users\jp\Local Sites\projet-planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\jp\Local Sites\projet-planty\app\public\wp-config.php(103): require_once('C:\\Users\\jp\\Loc...')
+#2 C:\Users\jp\Local Sites\projet-planty\app\public\wp-load.php(50): require_once('C:\\Users\\jp\\Loc...')
+#3 C:\Users\jp\Local Sites\projet-planty\app\public\wp-blog-header.php(13): require_once('C:\\Users\\jp\\Loc...')
+#4 C:\Users\jp\Local Sites\projet-planty\app\public\index.php(17): require('C:\\Users\\jp\\Loc...')
+#5 {main}
+  thrown in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:14:24 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[24-Dec-2023 23:14:25 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 19
+[26-Dec-2023 07:17:13 UTC] Sync process for Gutenberg Blocks has started.
+[26-Dec-2023 07:17:13 UTC] CATEGORY:Importing categories..
+[26-Dec-2023 07:17:13 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[26-Dec-2023 07:17:13 UTC] CATEGORY:Completed category import.
+[26-Dec-2023 07:17:13 UTC] BLOCK: Getting Total Blocks
+[26-Dec-2023 07:17:13 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[26-Dec-2023 07:17:13 UTC] BLOCK: Requests count 4
+[26-Dec-2023 07:17:14 UTC] BLOCK: Importing request 1 ..
+[26-Dec-2023 07:17:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[26-Dec-2023 07:17:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[26-Dec-2023 07:17:14 UTC] BLOCK: Completed request 1
+[26-Dec-2023 07:17:14 UTC] BLOCK: Importing request 2 ..
+[26-Dec-2023 07:17:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[26-Dec-2023 07:17:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[26-Dec-2023 07:17:14 UTC] BLOCK: Completed request 2
+[26-Dec-2023 07:17:14 UTC] BLOCK: Importing request 3 ..
+[26-Dec-2023 07:17:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[26-Dec-2023 07:17:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[26-Dec-2023 07:17:15 UTC] BLOCK: Completed request 3
+[26-Dec-2023 07:17:15 UTC] BLOCK: Importing request 4 ..
+[26-Dec-2023 07:17:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[26-Dec-2023 07:17:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[26-Dec-2023 07:17:15 UTC] BLOCK: Completed request 4
+[26-Dec-2023 07:17:15 UTC] SITE: Getting Total Sites
+[26-Dec-2023 07:17:15 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[26-Dec-2023 07:17:15 UTC] SITE: Request count 2
+[26-Dec-2023 07:17:15 UTC] SITE: Importing request 1 ..
+[26-Dec-2023 07:17:15 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[26-Dec-2023 07:17:15 UTC] SITE: Storing in option ast-block-templates-sites-1
+[26-Dec-2023 07:17:16 UTC] SITE: Completed request 1
+[26-Dec-2023 07:17:16 UTC] SITE: Importing request 2 ..
+[26-Dec-2023 07:17:16 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[26-Dec-2023 07:17:16 UTC] SITE: Storing in option ast-block-templates-sites-2
+[26-Dec-2023 07:17:16 UTC] SITE: Completed request 2
+[26-Dec-2023 07:17:16 UTC] Sync process for Gutenberg Blocks is done.
+[26-Dec-2023 09:36:51 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 23
+[26-Dec-2023 09:36:52 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 23
+[26-Dec-2023 09:38:00 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 23
+[26-Dec-2023 09:38:00 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 23
+[26-Dec-2023 09:38:37 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 23
+[26-Dec-2023 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jp\Local Sites\projet-planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[26-Dec-2023 09:38:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jp\Local Sites\projet-planty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
