@@ -1,6 +1,0 @@
-Dec 26 2023 06:44:44
-{"Number":2,"Message":"rmdir(C:\\Users\\jp\\Local Sites\\projet-planty\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\01juq7km5dok): Directory not empty","File":"C:\\Users\\jp\\Local Sites\\projet-planty\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
-
-Dec 26 2023 06:44:45
-{"Number":2,"Message":"filesize(): stat failed for C:\\Users\\jp\\Local Sites\\projet-planty\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\01juq7km5dok\\projet-planty.local-20231226-064440-avcb3v.wpress","File":"C:\\Users\\jp\\Local Sites\\projet-planty\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
-

@@ -1,13 +1,14 @@
 /* HEADER */
 
 
-#masthead .ast-container, .site-header-focus-item + .ast-breadcrumbs-wrapper{
-     padding-right: 0px;
+#masthead .ast-container,
+.site-header-focus-item+.ast-breadcrumbs-wrapper {
+    padding-right: 0px;
 }
 
 .menu-link {
     width: 236px;
-    display: flex ;
+    display: flex;
     justify-content: center;
 }
 
@@ -16,33 +17,74 @@
 .wp-image-82 {
     background-color: white;
 }
- .uagb-buttons-repeater {
+
+.uagb-buttons-repeater {
     width: 200px;
- }
+}
 
 
- .ast-plain-container.ast-no-sidebar .entry-content > .alignfull, .ast-page-builder-template .ast-no-sidebar .entry-content > .alignfull {
+.ast-plain-container .ast-no-sidebar .entry-content>.alignfull,
+.ast-page-builder-template .ast-no-sidebar .entry-content>.alignfull {
     flex-wrap: wrap;
- }
+}
 
 
 
 /*PAGE 2 Nous rencontrer*/
 
+/*section1*/
 .wp-image-221 {
     position: relative;
     left: 15vw;
-    top: 5vw;
+    top: 7vw;
 }
 
+/*section2*/
 .wp-image-76 {
     position: relative;
-    top: 3vw;
+    top:4.5vw;
+}
+.wp-block-media-text__content {
+    height:  150px
+}
+
+.wp-block-media-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.entry-content .wp-block-media-text .wp-block-media-text__content {
+    padding: 100px;
+}
+
+.wp-block-group-is-layout-flex {
+   
+    flex-wrap: wrap !important;
+    position: relative;
+    left: 8vw;
+}
+
+.wp-block-media-text__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.wp-block-media-text__content .has-text-align-center {
+    margin-top: 0 !important;
+}
+
+.has-text-align-center {
+    
+    margin-top: 25px;
     
 } 
 
+.wp-block-columns {
+    margin-bottom: 30px;
+}
 
 
+/*section3*/
 .nouscontacterp1 {
     display: flex;
     justify-content: center;
@@ -51,11 +93,10 @@
     margin-top: 15px;
 }
 
-
 .wpcf7 {
     width: 390px;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
 }
 
 /*positionnement des feuilles par rapport au champs de text*/
@@ -68,7 +109,7 @@
 
 .feuilles {
     bottom: 125px;
-    right:  90px;
+    right: 90px;
     position: relative;
     z-index: 1;
 }
@@ -80,7 +121,7 @@
     justify-content: center;
     width: 412px;
     height: 55px;
-} 
+}
 
 #envoyerbutton {
     position: relative;
@@ -180,16 +221,21 @@
     color: white;
     gap: 90px;
 }
+
 .separateurvertical {
-    height: 447px; 
+    height: 447px;
     margin-top: 20px;
 }
 
 /*bouton commande*/
 
-.wpcf7-form-control {
+
+.buttoncommander {
     display: flex;
     justify-content: center;
+}
+.wpcf7-spinner {
+    display: none;
 }
 
 #commandefruits {
@@ -198,11 +244,7 @@
     border-radius: 5px;
 }
 
-.buttoncommander {
-    display: flex;
-    justify-content: center;
 
-}
 
 /*FOOTER*/
 
@@ -211,9 +253,41 @@
 } */
 
 
-/**************************mobile************************/
+/**************************Tablette************************/
 
 @media (max-width: 959px) {
+
+    /*page 1*/
+
+   
+
+    .wp-image-221 {
+        position: relative;
+        left: 40vw;
+        top: 7vw;
+    }
+
+    .wp-elements-795efa37b9c36f21451562e395e45e1e {
+        font-size:20px !important;
+    }
+
+    
+    .wp-image-742{
+        width: 200px ;
+    }
+    .wp-image-743{
+        width: 200px ;
+    }
+    .wp-image-744{
+        width: 200px ;
+    }
+
+    .wp-block-group-is-layout-flex {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap !important;
+    }
+    
     .wpcf7-textarea {
         height: 240px;
         position: relative;
@@ -230,6 +304,7 @@
     .renseignement {
         flex-wrap: wrap;
         justify-content: center;
+        gap: 30px;
     }
 
     .imagefruitcommande {
@@ -245,20 +320,44 @@
     .separateurvertical {
         display: none;
     }
-    
+
     .wp-block-column {
-        
-        justify-content: center;  
+
+        justify-content: center;
     }
 
-    
-   
+
+
     .wp-image-76 {
         display: none;
-        
-    } 
-    
 
+    }
+
+    .buttoncommander {
+        margin-top: 45px;
+    }
+
+    .wp-block-columns {
+        position: relative;
+        left: 0vw;
+    }
+
+    .wp-container-core-columns-layout-1 {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .wpcf7-form {
+        max-width: 300px;
+    }
+    
 }
 
+/**************************Mobile************************/
 
+@media (max-width: 320px) {
+    
+
+
+
+}
