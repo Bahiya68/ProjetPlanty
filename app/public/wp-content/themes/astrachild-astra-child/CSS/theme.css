@@ -22,6 +22,17 @@
     width: 200px;
 }
 
+/*separateur curvé*/
+
+.uagb-block-b0e15b3f {
+    
+        border-bottom: 0px inset var(--bizarre);
+        border-radius: 50% / 0% 0% 10% 10%;
+        box-shadow: 0px 11px 6px rgba(227, 217, 208);
+    }
+
+/*section3*/
+
 
 .ast-plain-container .ast-no-sidebar .entry-content>.alignfull,
 .ast-page-builder-template .ast-no-sidebar .entry-content>.alignfull {
