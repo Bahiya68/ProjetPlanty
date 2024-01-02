@@ -13,6 +13,10 @@
 
 /*****PAGE 1 Accueil*****/
 
+.entry-content[ast-blocks-layout] > figure {
+    margin-bottom:0;
+}
+
 .wp-image-82 {
     background-color: white;
 }
@@ -59,7 +63,7 @@
     margin-top: 0 !important;
 }
 
-/*****PAGE 2 Nous rencontrer*****/
+/***************************    PAGE 2 Nous rencontrer   ***************************/
 
 /*section1*/
 .wp-image-221 {
@@ -76,45 +80,18 @@
 /*section2*/
 .wp-image-76 {
     position: relative;
-    top: 4.5vw;
+    top: 21vw;
+    left: 4vw;
 }
 
-.wp-block-media-text__content {
-    height: 150px
-}
-
-.wp-block-media-text {
-    display: flex;
-    flex-direction: column;
-}
-
-.entry-content .wp-block-media-text .wp-block-media-text__content {
-    padding: 100px;
-}
-
-.wp-block-group-is-layout-flex {
-    flex-wrap: wrap !important;
-    position: relative;
-    left: 7.8vw;
-}
-
-.wp-block-media-text__content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.wp-block-media-text__content .has-text-align-center {
-    margin-top: 0 !important;
+.wp-container-core-columns-layout-2 {
+    margin-bottom: 70px !important;
 }
 
 .has-text-align-center {
-    margin-top: 25px;
+    margin: 10px !important;
 }
 
-.wp-block-columns {
-    margin-bottom: 30px;
-}
 
 /*section3*/
 .nouscontacterp1 {
@@ -129,7 +106,19 @@
     width: 390px;
     display: flex;
     justify-content: center;
+    
 }
+
+.nom,
+.mail,
+.message {
+    margin-top: 15px;
+}
+.contactmail {
+    border-radius: 20px !important;
+}
+
+
 
 /*positionnement des feuilles par rapport au champs de text*/
 .wpcf7-textarea {
@@ -150,8 +139,8 @@
 .envoyerbutton {
     display: flex;
     justify-content: center;
-    width: 412px;
-    height: 55px;
+   
+    
 }
 
 #envoyerbutton {
@@ -175,11 +164,8 @@
     background-color: #ECE2DA;
 }
 
-/*PAGE 3 Commande*/
+/**************************  PAGE 3 Commande  *************************************/
 
-.wp-block-separator {
-    width: 200px;
-}
 
 /*formulaire commande*/
 
@@ -215,7 +201,7 @@
 #citron,
 #framboise {
     width: 60px;
-    height: 50px;
+    height: 65px;
 }
 
 
@@ -250,16 +236,30 @@
 }
 
 .renseignement {
-    height: 338 px ;
+   
     display: flex;
     flex-direction: row;
     color: white;
-    gap: 90px;
+    gap: 40px;
 }
 
+
+
+#Nom,
+#Prenom,
+#Email, 
+#Adresse,
+#Codepostal,
+#Ville {
+    margin-bottom: 25px;
+    border-radius: 7px;
+    height: 70px;
+    
+}
+
+
 .separateurvertical {
-    height: 338px ;
-    margin-top: 20px;
+   margin-top: 20px;
     margin-bottom: 50px;
 }
 
@@ -267,7 +267,8 @@
 .buttoncommander {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 30px;
+    margin-bottom: 80px;
 }
 
 .wpcf7-spinner {
@@ -275,9 +276,10 @@
 }
 
 #commandefruits {
-    width: 198px;
+    width: 200px;
     height: 55px;
     border-radius: 5px;
+    background-color: #E0B9B4;
 }
 
 /*FOOTER*/
@@ -290,6 +292,13 @@
 
 
 /**************************Tablette************************/
+
+
+@media screen and (max-width: 1540px) { 
+    .wp-image-76 {
+        display: none;
+    }
+}
 
 @media (max-width: 959px) {
 
@@ -309,6 +318,12 @@
     .wp-elements-795efa37b9c36f21451562e395e45e1e {
         font-size: 20px !important;
     }
+  
+    .wp-block-column-is-layout-flow {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
 
     .wp-image-742 {
         width: 200px;
@@ -320,6 +335,21 @@
 
     .wp-image-744 {
         width: 200px;
+    }
+
+    /* .wp-container-core-columns-layout-1,
+    .wp-container-core-columns-layout-2 {
+        width: 75%;
+        min-width: 200px ;
+    }
+    .has-text-align-center {
+        font-size: 30px ;
+
+    } */
+    /*page 2 */
+
+    .has-text-align-center { 
+        padding-bottom: 0px !important;
     }
 
     .wp-block-group-is-layout-flex {
@@ -388,11 +418,16 @@
 
 /**************************Mobile************************/
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
 
     .ast-above-header-bar {
         display: flex;
         flex-wrap: wrap;
+    }
+
+
+    .wp-image-76 {
+        display: none;
     }
 
 }
