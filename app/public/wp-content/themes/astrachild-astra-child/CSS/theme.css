@@ -139,8 +139,6 @@
 .envoyerbutton {
     display: flex;
     justify-content: center;
-   
-    
 }
 
 #envoyerbutton {
@@ -299,10 +297,13 @@
 }
 
 @media (max-width: 959px) {
+/* menu de navigation*/
+    
 
-    .ast-above-header-bar {
+    .site-header-above-section-right {
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
     }
 
     /*page 1*/
@@ -311,13 +312,13 @@
         font-size: 20px !important;
     }
     
-    h2 {
-        font-size: 28px !important;
-        padding-top: 150px !important;
+    h1 {
+        font-size: 21px !important;
+        padding-top: 100px !important;
     }
     
-    .wp-block-image{
-        width: 80%;
+    p {
+        font-size: 18px !important;
     }
     
     .wp-block-column-is-layout-flow {
@@ -325,6 +326,23 @@
         flex-direction: column;
         align-items: stretch;
     }
+    h6, h4 {
+        display: flex;
+        justify-content: center;
+    
+    }
+    h6 {
+        font-size: 22px !important;
+    }
+    h4 {
+        text-align: center !important;
+    }
+
+    .wp-image-742, 
+    .wp-image-743,
+    .wp-image-744 {
+        width: 60%;
+    } 
 
 /*section 3*/
 
@@ -355,6 +373,10 @@
         padding-bottom: 0px !important;
     }
 
+    h1 {
+        padding: 25px !important;
+    }
+
     .wp-block-group-is-layout-flex {
         display: flex;
         flex-direction: column;
@@ -368,6 +390,11 @@
     }
 
 /*page 3*/
+
+    h2 {
+        font-size: 24px !important;
+
+}
 
     .votrecommande {
         display: flex;
@@ -432,19 +459,44 @@
 
 /*page1*/
 
-    h2 {
-        font-size: 18px !important;
-        padding-top: 200px !important;
-    }  
-
     p {
         font-size: 18px !important;
     }
+
+    .wp-block-image{
+        width: 40%;
+    }
+
+    /*page 2*/
+
+    
+    .wpcf7-form {
+        width:  90%;
+    }
+
+   
+   
+
+
 
 /*page 3*/
 
     .wp-image-76 {
         display: none;
+    }
+
+    .votrecommande,
+    .info {
+        font-size: 24px;
+    }
+
+    .has-text-align-center {
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-top: 20px !important;
+    }
+    h2 {
+        font-size: 22px !important;
     }
 
 }
