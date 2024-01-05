@@ -1,5 +1,6 @@
 /****HEADER****/
 
+
 #masthead .ast-container,
 .site-header-focus-item+.ast-breadcrumbs-wrapper {
     padding-right: 0px;
@@ -281,6 +282,11 @@
 /*FOOTER*/
 
 
+.site-below-footer-wrap {
+    height: 60px;
+}
+
+
 
 
 
@@ -296,11 +302,17 @@
 @media (max-width: 959px) {
 /* menu de navigation*/
     
+
     
-    .mob-standard-logo {
+
+
+    
+    .mob-retina-logo {
         margin-top: 15px !important;
     }
     
+
+
 /*page 1*/
 
     .wp-elements-795efa37b9c36f21451562e395e45e1e {
@@ -484,6 +496,8 @@
         font-size: 20px !important;
     }
 
+   
+
 /*page 2*/
 
     
@@ -512,4 +526,10 @@
         font-size: 22px !important;
     }
 
+    .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e > .uagb-container-inner-blocks-wrap {
+            flex-direction:initial !important;
+
+       
+        }
+        
 }
