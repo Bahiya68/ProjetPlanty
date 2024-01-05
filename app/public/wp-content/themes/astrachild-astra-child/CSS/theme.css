@@ -280,9 +280,6 @@
 
 /*FOOTER*/
 
-.site-below-footer-wrap {
-    height: 60px;
-} 
 
 
 
@@ -299,14 +296,12 @@
 @media (max-width: 959px) {
 /* menu de navigation*/
     
-
-    .site-header-above-section-right {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+    
+    .mob-standard-logo {
+        margin-top: 15px !important;
     }
-
-    /*page 1*/
+    
+/*page 1*/
 
     .wp-elements-795efa37b9c36f21451562e395e45e1e {
         font-size: 20px !important;
@@ -317,6 +312,19 @@
         padding-top: 100px !important;
     }
     
+    .wp-image-78 {
+        width: 80%;
+    }
+
+    /*section3*/
+
+    .wp-container-core-columns-layout-1,
+    .wp-container-core-columns-layout-2 {
+        width: 75%;    
+    }
+
+    
+
     p {
         font-size: 18px !important;
     }
@@ -329,44 +337,49 @@
     h6, h4 {
         display: flex;
         justify-content: center;
-    
     }
+
     h6 {
         font-size: 22px !important;
     }
+
     h4 {
         text-align: center !important;
     }
 
-    .wp-image-742, 
-    .wp-image-743,
-    .wp-image-744 {
-        width: 60%;
-    } 
-
-/*section 3*/
-
     h5 {
-        font-size: 26px !important;
+        font-size: 22px !important;
     }
 
     .wp-elements-57a5b8504fb6ac303a9f0c2275ef2bbe {
         padding: 0px !important;
     }
 
+
 /*section 4*/
 
-    .wp-container-core-columns-layout-6 {
-        flex-wrap: wrap;
+    .wp-image-742, 
+    .wp-image-743,
+    .wp-image-744 {
+        width: 50%;
+    }  
 
-    }
 
-    /*page 2 */
+  
+
+/*page 2 */
 
     .wp-image-221 {
         position: relative;
         left: 40vw;
         top: 7vw;
+    }
+
+    .uagb-container__shape-fill {
+        display: none;
+    }
+    p {
+        padding: 20px !important;
     }
 
     .has-text-align-center { 
@@ -394,7 +407,7 @@
     h2 {
         font-size: 24px !important;
 
-}
+    }
 
     .votrecommande {
         display: flex;
@@ -467,18 +480,18 @@
         width: 40%;
     }
 
-    /*page 2*/
+    h5 {
+        font-size: 20px !important;
+    }
+
+/*page 2*/
 
     
     .wpcf7-form {
         width:  90%;
     }
 
-   
-   
-
-
-
+ 
 /*page 3*/
 
     .wp-image-76 {

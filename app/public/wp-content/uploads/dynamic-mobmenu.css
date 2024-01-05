@@ -55,13 +55,13 @@
 	}
 }
 
-@media only screen and (min-width:5001px){
+@media only screen and (min-width:961px){
 	.mob_menu, .mobmenu-panel, .mobmenu, .mobmenu-cart-panel, .mobmenu-footer-menu-holder, .mobmenu-right-panel, .mobmenu-left-panel  {
 		display: none!important;
 	}
 }
 
-@media only screen and (max-width:5000px) {
+@media only screen and (max-width:960px) {
 
 			
 	.mobmenur-container i {
