@@ -20,9 +20,7 @@ add_filter( 'wp_nav_menu_items', 'add_extra_item_to_nav_menu', 10, 2 );
       if (is_user_logged_in() && ($args->theme_location == "primary" || $args->theme_location == "menu left")) {
           $items .= '<li class="menu-item menu-item-type-post_type "><a class="menu-link" href="'.  get_admin_url() .'">Admin</a></li>';
      }
-    
 
-    
      return $items;
   
     }

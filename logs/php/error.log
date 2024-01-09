@@ -3219,3 +3219,5 @@ Stack trace:
 [09-Jan-2024 14:14:51 UTC] PHP Parse error:  Unmatched ')' in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 28
 [09-Jan-2024 14:15:01 UTC] PHP Parse error:  Unmatched ')' in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 28
 [09-Jan-2024 14:15:02 UTC] PHP Parse error:  Unmatched ')' in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 28
+[09-Jan-2024 16:01:03 UTC] PHP Parse error:  syntax error, unexpected variable "$args" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 20
+[09-Jan-2024 16:01:03 UTC] PHP Parse error:  syntax error, unexpected variable "$args" in C:\Users\jp\Local Sites\projet-planty\app\public\wp-content\themes\astrachild-astra-child\functions.php on line 20
