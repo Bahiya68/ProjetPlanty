@@ -14,9 +14,7 @@
 
 /*****PAGE 1 Accueil*****/
 
-.pagecurve {
-    font-size: clamp(1.3125rem, 0.7473rem + 1.8085vw, 2.375rem) !important;
-}
+
 
 .entry-content[ast-blocks-layout] > figure {
     margin-bottom:0;
@@ -51,13 +49,17 @@
 }
 
 .commandegout {
-    margin-top: 20px;
+    margin-top: 30px;
     width: 200px ;
     height: 55px ;
 }
 
 
 /*section 4 */
+
+.mediaimage {
+    width: 90% !important;
+}
 
 
 
@@ -300,7 +302,7 @@
 /**************************Tablette************************/
 
 
-@media screen and (max-width: 1185px) { 
+@media screen and (max-width: 1350px) { 
     .wp-image-76 {
         display: none;
     } 
@@ -315,29 +317,17 @@
 
 /*page 1*/
 
-    .wp-elements-795efa37b9c36f21451562e395e45e1e {
-        font-size: 20px !important;
-    }
-    
-
-
-    h1 {
-        font-size: 26px !important;
+    .h1page1 {
+        font-size: 32px !important;
         margin: 30px !important;
-        
+        padding: 50px !important;
     }
     
     .wp-image-78 {
-        width: 80%;
+        width: 90%;
     }
 
     /*section3*/
-
-    .wp-container-core-columns-layout-1,
-    .wp-container-core-columns-layout-2 {
-        width: 80%;
-           
-    }
 
     p {
         font-size: 18px !important;
@@ -357,7 +347,7 @@
     }
 
     h5 {
-        font-size: 24px !important;
+        font-size: 28px !important;
     }
 
     .wp-elements-57a5b8504fb6ac303a9f0c2275ef2bbe {
@@ -369,11 +359,16 @@
     .p1section4 {
         padding: 0 !important;
     }
-
-    .mediaimage {
-        padding-right: 50px;
-        padding-left: 50px;
+    .mediatext {
+        width: 80%;
     }
+    
+    .mediaimage{
+        width: 90% !important;
+        margin: 30px !important;
+    }
+    
+    
        
 
 /*page 2 */
@@ -400,19 +395,21 @@
         padding: 20px !important;
     }
 
+    .wp-container-core-columns-layout-1 {
+        margin: 0 !important;
+    }
     .has-text-align-center { 
         padding-bottom: 0px !important;
+    }
+
+    .equipe3portrait {
+        padding: 0px !important;
     }
 
     h1 {
         padding: 25px !important;
     }
 
-    .wp-block-group-is-layout-flex {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap !important;
-    }
 
     .wpcf7-textarea {
         height: 240px;
@@ -479,22 +476,69 @@
 
 }
 
+@media (max-width: 780px) {
+
+    .mediaimage{
+        display: flex;
+        flex-direction: column;
+    }
+    .cartefruits {
+        width: 60%;
+    }
+    h4 {
+        font-size: 16px !important;
+    }
+    h6 {
+        font-size: 20px !important;
+    }
+
+}
+
+
 /**************************Mobile************************/
 
 @media (max-width: 600px) {
 
     /*section1*/
     
-
     /*section4*/
-   .wp-block-media-text__media {
-        width: 75% !important;
-    } 
-
     .wp-block-media-text {
         display: flex;
         flex-direction: row;
         
+    }
+
+    
+
+    h1 {
+        font-size: 34px !important;
+    }
+  
+}
+
+@media (max-width: 506px) {
+    /*page 1 section 3 */
+    .cartefruits {
+        width: 80%;
+    }
+    h1 {
+        font-size: 28px !important;
+    }
+
+}
+@media (max-width: 396px) {
+    .cartefruits {
+        width: 100%;
+    }
+    h1 {
+        font-size: 24px !important;
+        padding: 0 !important;
+    }
+
+}
+@media (max-width: 332px) {
+    h5 {
+        font-size: 26px !important;
     }
     
 
@@ -502,16 +546,19 @@
 
 @media (max-width: 320px) {
 
-    .ast-above-header-bar {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
+   
 /*page1*/
    
     
     h5 {
-        font-size: 20px !important;
+        font-size: 24px !important;
+    }
+    h4 {
+       font-size: 12px !important; 
+    }
+    h6 {
+        font-size: 18px !important;
+        margin: 0 !important;
     }
     
    
@@ -520,6 +567,20 @@
 
     .wpcf7-form {
         width:  90%;
+    }
+
+    .positionfleur{
+        position: relative;
+        }
+    
+    .wp-image-221 {
+        position: relative;
+        left: 8vw;
+        top: 0vw;
+    }
+
+    h1 {
+        font-size: 24px !important;
     }
 
 /*page 3*/
@@ -544,8 +605,6 @@
 
     .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e > .uagb-container-inner-blocks-wrap {
             flex-direction:initial !important;
-
-       
         }
         
 }
