@@ -14,7 +14,7 @@
 
 /*****PAGE 1 Accueil*****/
 
-h1 {
+.pagecurve {
     font-size: clamp(1.3125rem, 0.7473rem + 1.8085vw, 2.375rem) !important;
 }
 
@@ -25,8 +25,6 @@ h1 {
 .wp-image-82 {
     background-color: white;
 }
-
-
 
 /*separateur curvé*/
 
@@ -48,23 +46,20 @@ h1 {
     flex-wrap: wrap;
 }
 
-.uagb-buttons__wrap {
-    margin-top: 25px;
-}
-.wp-elements-93f2f6d585201e4cb2d7f9cbfe970215 {
-    padding: 50px !important;
+.gout {
+    padding: 35px !important;
 }
 
-
-.wp-elements-8177988737fbf202a0a69588c3111425 {
-    margin-bottom: 0px !important;
+.commandegout {
+    margin-top: 20px;
+    width: 200px ;
+    height: 55px ;
 }
 
-.wp-elements-98530f7ba6b8e7b4af29e537299e11ad {
-    margin-top: 0 !important;
-}
 
 /*section 4 */
+
+
 
 
 /***************************    PAGE 2 Nous rencontrer   ***************************/
@@ -324,9 +319,12 @@ h1 {
         font-size: 20px !important;
     }
     
+
+
     h1 {
-        font-size: 21px !important;
-        padding-top: 100px !important;
+        font-size: 26px !important;
+        margin: 30px !important;
+        
     }
     
     .wp-image-78 {
@@ -371,6 +369,12 @@ h1 {
     .p1section4 {
         padding: 0 !important;
     }
+
+    .mediaimage {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+       
 
 /*page 2 */
 
@@ -480,10 +484,7 @@ h1 {
 @media (max-width: 600px) {
 
     /*section1*/
-    .pagecurve {
-        height: 800px;
-        width: 100%;
-    }
+    
 
     /*section4*/
    .wp-block-media-text__media {
@@ -507,20 +508,8 @@ h1 {
     }
 
 /*page1*/
-
-    .pagecurve {
-        height: 800px;
-        width: 100%;
-    }
-
-    p {
-        font-size: 18px !important;
-    }
-
-    .wp-block-image{
-        width: 40%;
-    }
-
+   
+    
     h5 {
         font-size: 20px !important;
     }

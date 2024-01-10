@@ -17,7 +17,7 @@ if (!function_exists('b7ectg_theme_enqueue_styles')) {
 
 add_filter( 'wp_nav_menu_items', 'add_extra_item_to_nav_menu', 10, 2 );
   function add_extra_item_to_nav_menu( $items, $args ) {
-      if (is_user_logged_in() && ($args->theme_location == "primary" || $args->theme_location == "menu left")) {
+      if (is_user_logged_in() && ($args)) {
           $items .= '<li class="menu-item menu-item-type-post_type "><a class="menu-link" href="'.  get_admin_url() .'">Admin</a></li>';
      }
 
@@ -26,18 +26,8 @@ add_filter( 'wp_nav_menu_items', 'add_extra_item_to_nav_menu', 10, 2 );
     }
 
 
+//->theme_location == "primary" || $args->theme_location == "menu left"
 
-
-// add_filter('wp_nav_menu_items', 'ajouter_element_menu', 10, 2);
-// function ajouter_element_menu($items, $args) {
-//     if (is_user_logged_in() && ($args->theme_location == "primary" )) 
-//    //Votre code à ajouter au menu
-//     $nouvel_element = '<li><a class="menu-item menu-item-type-post_type" href="'.  get_admin_url() .'">Admin</a></li>';
-//     // Ajoutez l'élément au début du menu
-//     $items =  $nouvel_element . $items;
- 
-//     return $items;
-// }
 
  
 
