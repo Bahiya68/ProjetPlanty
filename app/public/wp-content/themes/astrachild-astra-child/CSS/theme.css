@@ -29,8 +29,6 @@
 
 /*section 2*/
 
-
-
 /*section3*/
 
 .ast-plain-container .ast-no-sidebar .entry-content>.alignfull,
@@ -56,8 +54,6 @@
 .wp-image-82 {
     background-color: white;
 }
-
-
 
 
 /***************************    PAGE 2 Nous rencontrer   ***************************/
@@ -168,7 +164,6 @@
 }
 
 /**************************  PAGE 3 Commande  *************************************/
-
 
 /*formulaire commande*/
 
@@ -293,9 +288,6 @@
 }
 
 
-
-
-
 /**************************Tablette************************/
 @media (max-width: 1520px) {
     .pmediaimage {
@@ -344,7 +336,6 @@
         margin: 0px !important;
     }
 
-
     .wp-image-78 {
         width: 90% !important;
     }
@@ -387,20 +378,11 @@
         padding: 0 !important;
     }
 
-    
-
     .mediaimage {
         display: flex;
         flex-direction: column;
         width: 90% !important;
     }
-
-    
-    .wp-image-742,
-    .wp-image-743,
-    .wp-image-744 {
-        width: 90% !important;
-    } 
 
     .h6p {
         margin: 0 !important;
@@ -562,14 +544,12 @@
     .h4p {
         padding: 0px !important;
     }
-
-
 }
 
 @media (max-width: 506px) {
 
     .pagecurve {
-        height: 700px;
+        height: 500px;
     }
 
     /*page 1 section 3 */
@@ -585,8 +565,6 @@
     h1 {
         font-size: 28px !important;
     }
-
-    
 
     .h4p {
         font-size: 16px !important;
@@ -620,13 +598,14 @@
     h5 {
         font-size: 26px !important;
     }
+}
 
 @media (max-width: 320px) {
 
         /*page1*/
 
         .pagecurve {
-            height: 400px;
+            height: 400px ;
         }
 
         .h1page1 {
@@ -697,5 +676,5 @@
         .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e>.uagb-container-inner-blocks-wrap {
             flex-direction: initial !important;
         }
-    }
+    
 }
