@@ -26,7 +26,7 @@ add_filter( 'wp_nav_menu_items', 'add_extra_item_to_nav_menu', 10, 2 );
     }
 
 
-//->theme_location == "primary" || $args->theme_location == "menu left"
+
 
 
  
