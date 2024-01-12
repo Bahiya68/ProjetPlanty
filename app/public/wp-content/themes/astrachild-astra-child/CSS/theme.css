@@ -308,7 +308,7 @@
         margin: 0 !important;
     }
 
-}    
+}
 
 
 @media (max-width: 959px) {
@@ -368,6 +368,7 @@
     .wp-block-media-text__content {
         padding: 0 !important;
     }
+
     .wp-elements-57a5b8504fb6ac303a9f0c2275ef2bbe {
         padding: 0px !important;
     }
@@ -387,9 +388,11 @@
     .h6p {
         margin: 0 !important;
     }
+
     .h4p {
         margin: 0 !important;
     }
+
     /*page 2 */
 
     .positionfleur {
@@ -495,6 +498,10 @@
         max-width: 300px;
     }
 
+    .mediatext {
+        width: 75% !important;
+    }
+
 }
 
 @media (max-width: 780px) {
@@ -513,7 +520,11 @@
     }
 
     h6 {
-        font-size: 20px !important;
+        font-size: 24px !important;
+    }
+
+    .mediatext {
+        width: 75% !important;
     }
 
 }
@@ -526,10 +537,18 @@
     /*section1*/
 
     /*section4*/
-    .wp-block-media-text {
+
+    
+    .mediatext {
         display: flex;
         flex-direction: row;
+    }
 
+    .wp-image-742,
+    .wp-image-743,
+    .wp-image-744  {
+        width: 140px !important;
+        padding: 10px;
     }
 
     .h1page1 {
@@ -537,13 +556,15 @@
         margin: 0 !important;
     }
 
-
     h1 {
         font-size: 34px !important;
     }
+
     .h4p {
         padding: 0px !important;
     }
+
+
 }
 
 @media (max-width: 506px) {
@@ -567,8 +588,8 @@
     }
 
     .h4p {
-        font-size: 16px !important;
-        padding: 0 !important;
+        font-size: 14px !important;
+        
     }
 
 }
@@ -587,9 +608,21 @@
         padding: 0 !important;
     }
 
+    .wp-image-742,
+    .wp-image-743,
+    .wp-image-744  {
+        width: 120px !important;
+        padding: 10px;
+    }
+
     .h4p {
         font-size: 12px !important;
-        padding: 0 !important;
+        padding: 0px !important;
+    }
+
+    .h6p {
+        font-size: 20px !important;
+        
     }
 
 }
@@ -602,79 +635,85 @@
 
 @media (max-width: 320px) {
 
-        /*page1*/
+    /*page1*/
 
-        .pagecurve {
-            height: 400px ;
-        }
+    .pagecurve {
+        height: 400px;
+    }
 
-        .h1page1 {
-            font-size: 22px !important;
-            margin-top: 0 !important;
-        }
+    .h1page1 {
+        font-size: 22px !important;
+        margin-top: 0 !important;
+    }
 
-        h5 {
-            font-size: 24px !important;
-        }
+    h5 {
+        font-size: 24px !important;
+    }
 
-        h4 {
-            font-size: 12px !important;
-        }
+    h4 {
+        font-size: 12px !important;
+    }
 
-        h6 {
-            font-size: 18px !important;
-            margin: 0 !important;
-        }
+    h6 {
+        font-size: 18px !important;
+        margin: 0 !important;
+    }
 
-        .canettep1 {
-            padding: 0 !important;
-        }
-
-        
-
-        /*page 2*/
-
-        .wpcf7-form {
-            width: 90%;
-        }
-
-        .positionfleur {
-            position: relative;
-        }
-
-        .wp-image-221 {
-            position: relative;
-            left: 8vw;
-            top: 0vw;
-        }
-
-        h1 {
-            font-size: 24px !important;
-        }
-
-        .wp-image-76 {
-            display: none;
-        }
-
-        /*page 3*/
-
-        .votrecommande,
-        .info {
-            font-size: 24px;
-        }
-
-        .has-text-align-center {
-            padding: 0px !important;
-            margin: 0px !important;
-            margin-top: 20px !important;
-        }
-
-        h2 {
-            font-size: 22px !important;
-        }
-
-        .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e>.uagb-container-inner-blocks-wrap {
-            flex-direction: initial !important;
-        }
+    .wp-image-742,
+    .wp-image-743,
+    .wp-image-744  {
+        width: 120px !important;
+        padding: 0px !important;
+    }
     
+
+    .canettep1 {
+        padding: 0 !important;
+    }
+
+    /*page 2*/
+
+    .wpcf7-form {
+        width: 90%;
+    }
+
+    .positionfleur {
+        position: relative;
+    }
+
+    .wp-image-221 {
+        position: relative;
+        left: 8vw;
+        top: 0vw;
+    }
+
+    h1 {
+        font-size: 24px !important;
+    }
+
+    .wp-image-76 {
+        display: none;
+    }
+
+    /*page 3*/
+
+    .votrecommande,
+    .info {
+        font-size: 24px;
+    }
+
+    .has-text-align-center {
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-top: 20px !important;
+    }
+
+    h2 {
+        font-size: 22px !important;
+    }
+
+    .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e>.uagb-container-inner-blocks-wrap {
+        flex-direction: initial !important;
+    }
+
 }
