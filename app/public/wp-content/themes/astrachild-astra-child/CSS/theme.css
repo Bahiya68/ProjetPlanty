@@ -284,6 +284,11 @@
     background-color: #E0B9B4;
 }
 
+.wp-block-uagb-container.alignfull.uagb-is-root-container .uagb-container-inner-blocks-wrap {
+    display: flex;
+    align-content: space-around;
+}
+
 /*FOOTER*/
 
 
@@ -324,7 +329,6 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-
     }
 
     .mediatext {
@@ -365,6 +369,10 @@
 
     .textenergie {
         margin-bottom: 40px !important;
+    }
+
+    .p1section4 {
+        margin-top: 80px !important;
     }
 
     /*section3*/
@@ -428,21 +436,19 @@
 
     .wp-image-221 {
         position: relative;
-        left: 20vw;
+        left: 15vw;
         top: 0vw;
     }
 
-    .uagb-container__shape-fill {
-        display: none;
+    .titreequipe {
+        margin-top: 80px !important;
+        padding: 20px !important;
+        font-size: 26px !important;
     }
 
     .section1text {
-        padding-right: 10% !important;
-        padding-left: 10% !important;
-    }
-
-    .titreequipe {
-        padding: 20px !important;
+        padding-right: 15% !important;
+        padding-left: 15% !important;
     }
 
     .wp-container-core-columns-layout-1 {
@@ -590,8 +596,6 @@
     .h4p {
         padding: 0px !important;
     }
-
-
 }
 
 @media (max-width: 506px) {
@@ -660,7 +664,7 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 318px) {
 
     /*page1*/
 
@@ -693,7 +697,6 @@
         padding: 0px !important;
     }
 
-
     .canettep1 {
         padding: 0 !important;
     }
@@ -704,15 +707,7 @@
         width: 90%;
     }
 
-    .positionfleur {
-        position: relative;
-    }
-
-    .wp-image-221 {
-        position: relative;
-        left: 8vw;
-        top: 0vw;
-    }
+   
 
     h1 {
         font-size: 24px !important;
@@ -720,6 +715,10 @@
 
     .wp-image-76 {
         display: none;
+    }
+
+    .titreequipe {
+        margin-top: 500px !important;
     }
 
     /*page 3*/
@@ -737,10 +736,6 @@
 
     h2 {
         font-size: 22px !important;
-    }
-
-    .wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-4a0f450e>.uagb-container-inner-blocks-wrap {
-        flex-direction: initial !important;
     }
 
 }
