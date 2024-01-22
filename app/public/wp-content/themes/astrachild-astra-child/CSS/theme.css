@@ -9,6 +9,11 @@
     width: 236px;
     display: flex;
     justify-content: center;
+    
+}
+
+.menu-link:hover {
+    font-weight: 600;
 }
 
 /*****PAGE 1 Accueil*****/
@@ -273,6 +278,8 @@
     margin-bottom: 80px;
 }
 
+
+
 .wpcf7-spinner {
     display: none;
 }
@@ -282,6 +289,11 @@
     height: 55px;
     border-radius: 5px;
     background-color: #E0B9B4;
+}
+
+#commandefruits:hover {
+    background-color:  #C02E44 ;
+
 }
 
 .wp-block-uagb-container.alignfull.uagb-is-root-container .uagb-container-inner-blocks-wrap {
